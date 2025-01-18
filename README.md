@@ -20,11 +20,6 @@
 - Shapely
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
 
-安裝所需函式庫，執行以下指令：
-
-```bash
-pip install opencv-python-headless numpy shapely ultralytics
-```
 
 ### 輸入影片
 
@@ -51,7 +46,7 @@ pip install opencv-python-headless numpy shapely ultralytics
 
 1. 複製專案：
    ```bash
-   git clone https://github.com/你的帳號/Flask-YOLOv8-App.git
+   git clone https://github.com/PCCUYing/Yolov8-count.git
    cd Flask-YOLOv8-App
    ```
 2. 安裝必要依賴：
